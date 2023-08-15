@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mj6725&label=Profile%20views&color=0e75b6&style=flat" alt="mj6725" /> </p>
 
-- 🌱 I’m currently learning **B.tech CSE CORE**
+- 🌱 I’m currently learning **Html web development**
 
 - 👨‍💻 All of my projects are available at https://github.com/mj6725
 - 📝 I regularly write articles on [https://www.youtube.com/@Biharijha19](https://www.youtube.com/@Biharijha19)
