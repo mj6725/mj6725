@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **B.tech CSE CORE**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mj6725/mj6725.github.io](https://github.com/mj6725/mj6725.github.io)
-
+- 👨‍💻 All of my projects are available at https://github.com/mj6725
 - 📝 I regularly write articles on [https://www.youtube.com/@Biharijha19](https://www.youtube.com/@Biharijha19)
 
 - 📫 How to reach me **jmritunjay01@gmail.com**
